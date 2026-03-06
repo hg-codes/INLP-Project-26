@@ -1,0 +1,21 @@
+Each team must submit a 8-10 page document (excluding references) that includes the
+project idea and 
+motivation/objectives, 
+background and related work (with references to relevant and updated papers), 
+dataset details, 
+proposed methodology/architecture and 
+evaluation options. 
+Also include the progress so far (objectives completed, ongoing, and planned) and 
+tentative timeline.
+
+The purpose of this document is to provide a clear picture of your project’s direction and current progress.
+
+The report must follow the ACL Style Template, which is available here.
+
+Additionally, please either- make your GitHub repository public and share
+the link, or share access privately with your mentor and co-mentors.
+
+Submit as a PDF with the filename: <TeamName>-Mid.pdf. One submission per team.
+
+You will be graded on the code, report and a viva. 
+Having slides for the viva is optional
